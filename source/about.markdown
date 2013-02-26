@@ -11,7 +11,11 @@ footer: true
 
 **Terry Wang**
 
-Husband, father of twin girls, geek => `Linux`, `DevOps`, `Virtualization`, IaaS, PaaS, Middleware. Like Sports Cars, Knowledge Management. Enjoy Freedom & KISS.
+Husband, father of twin girls.
+
+Geek => `/Linux` `/DevOps` `/Virtualization` `/IaaS` `/PaaS` `/Middleware`
+
+Like Sports Cars, Knowledge Management. Enjoy Freedom & KISS.
 
 **產自中華民國淪陷區**
 
@@ -21,7 +25,7 @@ Email: `echo cm9vdEB0ZXJyeS5pbQo= | base64 -d`
 
 ### Links
 
-* [~terry](http://terry.im)
+* [/home/terry](http://terry.im)
 * [@terrywang](https://twitter.com/terrywang)
 * [LinkedIn](http://www.linkedin.com/in/terrywan9)
 * [Google Profile](https://plus.google.com/100686759698837556829/about)
